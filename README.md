@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-This is a basic calculator app that contains following operations :4
+This is a basic calculator app that contains following operations :
 
 
 ->  Division
